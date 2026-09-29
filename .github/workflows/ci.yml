@@ -1,0 +1,22 @@
+name: CI
+
+on:
+  push:
+    branches: [main]
+  pull_request:
+    branches: [main]
+
+jobs:
+  test:
+    runs-on: ubuntu-latest
+    steps:
+      - uses: actions/checkout@v4
+      - uses: actions/setup-python@v5
+        with:
+          python-version: "3.11"
+      - name: Install core dependencies
+        run: pip install pytest ruff pydantic pydantic-settings python-dotenv beautifulsoup4 lxml langchain-text-splitters
+      - name: Lint
+        run: ruff check . --ignoregE501
+      - name: Unit tests
+        run: python -m pytest tests/ -q

@@ -1,0 +1,290 @@
+[
+  {
+    "question": "What is the expected growth rate of global smartphone units in 2021 ",
+    "ticker": "tsm",
+    "expected_answer": " The expected growth rate of global smartphone units in 2021 is 10%.",
+    "keywords": [
+      "expected",
+      "growth",
+      "global",
+      "smartphone",
+      "units"
+    ]
+  },
+  {
+    "question": "What is the expected penetration rate for 5G smartphones in the total smartphone market in 2021 ",
+    "ticker": "tsm",
+    "expected_answer": " The expected penetration rate for 5G smartphones in the total smartphone market in 2021 is more than 35%.",
+    "keywords": [
+      "expected",
+      "penetration",
+      "smartphones",
+      "total"
+    ]
+  },
+  {
+    "question": "What is the growth rate for the iPhone category in the 2020-Q4 quarter ",
+    "ticker": "aapl",
+    "expected_answer": " The growth rate for the iPhone category in the 2020-Q4 quarter is not provided in the transcript. However, it is mentioned that the company is expecting to grow double digits across the board for the rest of their products and services, including the iPhone category.",
+    "keywords": [
+      "growth",
+      "iPhone",
+      "category",
+      "2020-Q4"
+    ]
+  },
+  {
+    "question": "What is the growth rate for the rest of the product categories in the 2020-Q4 quarter ",
+    "ticker": "aapl",
+    "expected_answer": " The growth rate for the rest of the product categories in the 2020-Q4 quarter is expected to be double digits.",
+    "keywords": [
+      "growth",
+      "product",
+      "categories"
+    ]
+  },
+  {
+    "question": "What is the growth rate for the entire iPhone cycle in the 2020-Q4 quarter",
+    "ticker": "aapl",
+    "expected_answer": " The growth rate for the entire iPhone cycle in the 2020-Q4 quarter is not provided in the transcript. However, it is mentioned that the company is expecting to grow double digits across the board for the rest of their products and services, and that there are a lot of tailwinds this year for iPhone",
+    "keywords": [
+      "growth",
+      "entire",
+      "iPhone",
+      "cycle"
+    ]
+  },
+  {
+    "question": "What is the growth trajectory in automotive revenue over the next year and a half to two years? ",
+    "ticker": "nvda",
+    "expected_answer": " The growth trajectory in automotive revenue over the next year and a half to two years is not explicitly stated in the transcript. However, it is mentioned that the legacy infotainment business was down in the quarter, and that the company has been working with customers on collaborative work in th",
+    "keywords": [
+      "growth",
+      "trajectory",
+      "automotive",
+      "revenue"
+    ]
+  },
+  {
+    "question": "What percentage of automotive revenue is generated from the newer AI/ADAS solutions",
+    "ticker": "nvda",
+    "expected_answer": " The percentage of automotive revenue generated from the newer AI/ADAS solutions is not explicitly stated in the transcript. However, it is mentioned that the legacy infotainment business was down in the quarter, and that the company is working on new solutions in the automotive industry. It is also",
+    "keywords": [
+      "percentage",
+      "automotive",
+      "revenue",
+      "generated",
+      "newer",
+      "AI/ADAS"
+    ]
+  },
+  {
+    "question": "What is the number of people across 40 countries using Google Pay to manage transactions and stay on top of their finances ",
+    "ticker": "googl",
+    "expected_answer": " The number of people across 40 countries using Google Pay to manage transactions and stay on top of their finances is 150 million.",
+    "keywords": [
+      "number",
+      "people",
+      "across",
+      "countries",
+      "using",
+      "Google"
+    ]
+  },
+  {
+    "question": "What is the number of merchants using Google Pay to provide their customers with a simple and safe way to check out and whether it's in store or online or via their app? ",
+    "ticker": "googl",
+    "expected_answer": " The number of merchants using Google Pay to provide their customers with a simple and safe way to check out and whether it's in store or online or via their app is not specified in the transcript.",
+    "keywords": [
+      "number",
+      "merchants",
+      "using",
+      "Google",
+      "provide",
+      "their"
+    ]
+  },
+  {
+    "question": "What is the number of people in India using Google Pay to open fixed deposit accounts directly from Google Pay",
+    "ticker": "googl",
+    "expected_answer": " The number of people in India using Google Pay to open fixed deposit accounts directly from Google Pay is not mentioned in the transcript.",
+    "keywords": [
+      "number",
+      "people",
+      "India",
+      "using",
+      "Google"
+    ]
+  },
+  {
+    "question": "What is the number of people across 40 countries using Google Pay to manage transactions and stay on top of their finances ",
+    "ticker": "googl",
+    "expected_answer": " The number of people across 40 countries using Google Pay to manage transactions and stay on top of their finances is 150 million.",
+    "keywords": [
+      "number",
+      "people",
+      "across",
+      "countries",
+      "using",
+      "Google"
+    ]
+  },
+  {
+    "question": "What is the number of merchants using Google Pay to provide their customers with a simple and safe way to check out and whether it's in store or online or via their app? ",
+    "ticker": "googl",
+    "expected_answer": " The number of merchants using Google Pay to provide their customers with a simple and safe way to check out and whether it's in store or online or via their app is not specified in the transcript.",
+    "keywords": [
+      "number",
+      "merchants",
+      "using",
+      "Google",
+      "provide",
+      "their"
+    ]
+  },
+  {
+    "question": "What is the size of the untapped market for data center solutions in the world of mobile 5G ",
+    "ticker": "nvda",
+    "expected_answer": " The size of the untapped market for data center solutions in the world of mobile 5G is not explicitly stated in the transcript. However, it is mentioned that the CPU is not able to support the level of performance necessary for 5G and that ASICs are too rigid to be put into a data center. Additiona",
+    "keywords": [
+      "untapped",
+      "market",
+      "center",
+      "solutions"
+    ]
+  },
+  {
+    "question": "What was the total gross cost for Amazon in 2020 ",
+    "ticker": "amzn",
+    "expected_answer": " The total gross cost for Amazon in 2020 was $11.5 billion.",
+    "keywords": [
+      "total",
+      "gross",
+      "Amazon",
+      "$11.5"
+    ]
+  },
+  {
+    "question": "What was the gross cost for Amazon in Q4 2020 ",
+    "ticker": "amzn",
+    "expected_answer": " The gross cost for Amazon in Q4 2020 was $4 billion.",
+    "keywords": [
+      "gross",
+      "Amazon"
+    ]
+  },
+  {
+    "question": "What was the gross cost for Amazon in Q1 2021",
+    "ticker": "amzn",
+    "expected_answer": " The gross cost for Amazon in Q1 2021 was $2 billion.",
+    "keywords": [
+      "gross",
+      "Amazon"
+    ]
+  },
+  {
+    "question": "What is the current percentage of time that people spend on Instagram that is dedicated to Reels ",
+    "ticker": "meta",
+    "expected_answer": " The current percentage of time that people spend on Instagram that is dedicated to Reels is more than 20%.",
+    "keywords": [
+      "current",
+      "percentage",
+      "people",
+      "spend",
+      "Instagram"
+    ]
+  },
+  {
+    "question": "What is the current percentage of time that people spend on Facebook that is dedicated to Reels? ",
+    "ticker": "meta",
+    "expected_answer": " The current percentage of time that people spend on Facebook that is dedicated to Reels is not explicitly stated in the transcript. However, it is mentioned that Reels make up more than 20% of the time that people spend on Instagram and video overall makes up 50% of the time that people spend on Fa",
+    "keywords": [
+      "current",
+      "percentage",
+      "people",
+      "spend",
+      "Facebook"
+    ]
+  },
+  {
+    "question": "What is the current percentage of time that people spend on Instagram that is dedicated to photos",
+    "ticker": "meta",
+    "expected_answer": " The transcript does not provide the current percentage of time that people spend on Instagram that is dedicated to photos.",
+    "keywords": [
+      "transcript",
+      "provide",
+      "current",
+      "percentage"
+    ]
+  },
+  {
+    "question": "What is the current percentage of time that people spend on Instagram that is dedicated to Reels ",
+    "ticker": "meta",
+    "expected_answer": " The current percentage of time that people spend on Instagram that is dedicated to Reels is more than 20%.",
+    "keywords": [
+      "current",
+      "percentage",
+      "people",
+      "spend",
+      "Instagram"
+    ]
+  },
+  {
+    "question": "What is the current percentage of time that people spend on Facebook that is dedicated to Reels? ",
+    "ticker": "meta",
+    "expected_answer": " The current percentage of time that people spend on Facebook that is dedicated to Reels is not explicitly stated in the transcript. However, it is mentioned that Reels make up more than 20% of the time that people spend on Instagram and video overall makes up 50% of the time that people spend on Fa",
+    "keywords": [
+      "current",
+      "percentage",
+      "people",
+      "spend",
+      "Facebook"
+    ]
+  },
+  {
+    "question": "What is the estimated revenue contribution from the paid subscribers to the Apple TV+ service in the Services revenue for the 2020-Q1 quarter ",
+    "ticker": "aapl",
+    "expected_answer": " The estimated revenue contribution from the paid subscribers to the Apple TV+ service in the Services revenue for the 2020-Q1 quarter is not provided in the transcript.",
+    "keywords": [
+      "estimated",
+      "revenue",
+      "contribution",
+      "subscribers"
+    ]
+  },
+  {
+    "question": "What was the percentage increase in Prime member membership and retention after the price increase in the Prime program ",
+    "ticker": "amzn",
+    "expected_answer": " The transcript does not provide specific numbers for the percentage increase in Prime member membership and retention after the price increase in the Prime program. However, it does mention that the results were above expectations and that the program has been successful in increasing in-stock and ",
+    "keywords": [
+      "transcript",
+      "provide",
+      "specific",
+      "numbers",
+      "percentage"
+    ]
+  },
+  {
+    "question": "What was the percentage increase in the percentage mix of seller results in Q2 compared to the previous quarter ",
+    "ticker": "amzn",
+    "expected_answer": " The percentage increase in the percentage mix of seller results in Q2 compared to the previous quarter was not mentioned in the transcript.",
+    "keywords": [
+      "percentage",
+      "increase",
+      "percentage",
+      "seller",
+      "results"
+    ]
+  },
+  {
+    "question": "What is the percentage of GDP that technology is expected to account for in 10 years ",
+    "ticker": "msft",
+    "expected_answer": " The percentage of GDP that technology is expected to account for in 10 years is not explicitly stated in the transcript. However, Satya Nadella, the CEO of Microsoft, mentions that technology is expected to account for a larger percentage of GDP in the future, but he does not provide a specific per",
+    "keywords": [
+      "percentage",
+      "technology",
+      "expected",
+      "account"
+    ]
+  }
+]
