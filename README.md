@@ -2,6 +2,8 @@
 
 AI Data Engineering pipeline: EDGAR filings → parse & chunk → embed → pgvector + Chroma → hybrid search → FastAPI Q&A with citations → evaluation.
 
+**🚀 Live API:** https://sec-rag-knowledge-base-production.up.railway.app/docs — ask questions about Apple, Microsoft, Google, Amazon, Meta, NVIDIA, TSMC earnings calls directly in the browser.
+
 ## Business Problem
 
 SEC 10-K and 10-Q filings contain critical financial and risk information, but they are thousands of pages long. This project builds a knowledge base that lets analysts ask natural-language questions and get cited answers grounded in the actual filing text.
